@@ -8,7 +8,7 @@ Este projeto foi criado para explorar conceitos de desenvolvimento web, automaç
 
 ## Tecnologias utilizadas
 
-- **[Principais linguagens e tecnologias do projeto:]**
+- **Principais linguagens e tecnologias do projeto:**
     - JavaScript
   - HTML/CSS
 
